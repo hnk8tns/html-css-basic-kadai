@@ -1,10 +1,10 @@
 body {
     font-family:"Arial", "Meiryo", sans-serif;
+    text-align: center;
 }
 
 html {
     font-size: 20px;
-    text-align: center;
 }
 
 .blue {
@@ -16,11 +16,10 @@ html {
 }
 
 h1 {
-    font-family: "Josefin Sans", serif;
+    font-family: "Josefin Sans", sans-serif;
     font-optical-sizing: auto;
     font-style: normal;
     font-size: 2rem;
-    font-family: sans-serif;
     letter-spacing: 1.2em;
     text-shadow: 1px 1px 2px gray;
     border-bottom: solid 3px rgb(115, 115, 114);
